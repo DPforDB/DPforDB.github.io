@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Differential Privacy for Database Systems
 
-You can use the [editor on GitHub](https://github.com/heqianjane88/DPforDB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Joseph P. Near (University of Vermont) and Xi He (University of Waterloo)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Differential privacy is a promising approach to formalizing privacy—that is, for writing down what privacy means as a mathematical equation. This book serves as an overview of the state-of-the-art in techniques for differential privacy. The authors provide an introduction to what is meant by privacy in computing terms and the reasons why differential privacy is becoming adopted in many applications.
 
-### Markdown
+The authors focus in particular on techniques for answering database-style queries, on useful algorithms and their applications, and on systems and tools that implement them. These techniques represent significant progress towards building differentially private database systems. The approaches described in this book have already resulted in useful, deployable systems, and likely pave the way towards increasingly widespread adoption of differential privacy in such systems.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This book provides a database researcher or designer a complete, yet concise, overview of differential privacy and its deployment in database systems. Written in a clear and didactic manner, the novice to the subject will quickly learn the essentials; while those more familiar with the subject is presented with an accessible text that covers the latest research.
 
-```markdown
-Syntax highlighted code block
+NOW Publishers, July 2021: [Publishers Page](https://www.nowpublishers.com/article/Details/DBS-066)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heqianjane88/DPforDB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Full Text (PDF) (Last update: 16 July 2021)
