@@ -10,4 +10,4 @@ This book provides a database researcher or designer a complete, yet concise, ov
 
 NOW Publishers, July 2021: [Publishers Page](https://www.nowpublishers.com/article/Details/DBS-066)
 
-Full Text (PDF) (Last update: 16 July 2021)
+Full Text ([PDF](DBS-066.pdf)) (Last update: 16 July 2021)
