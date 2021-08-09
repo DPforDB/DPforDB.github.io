@@ -1,4 +1,4 @@
-# Differential Privacy for Database Systems
+# Differential Privacy for Databases 
 
 ### Joseph P. Near (University of Vermont) and Xi He (University of Waterloo)
 
